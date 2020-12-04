@@ -1,7 +1,7 @@
 # Charter for the Fairlearn Organization
 
 This is the organizational charter for the Fairlearn Organization (the "Organization").
-By adding their name or the name of their Project to the [MEMBERS.md](https://github.com/fairlearn/governance/blob/main/steering-committee.md) file, the
+By adding their name or the name of their Project to the [MEMBERS.md](./steering-committee.md) file, the
 SC members, the AB members and the Project Maintainers agree as follows.
 
 ## 1. Mission
@@ -20,7 +20,7 @@ The Organization is composed of:
 
 ## 3. Steering Committee
 
-**3.1 Composition**. The SC voting members are listed in the [MEMBERS.md](https://github.com/fairlearn/governance/blob/main/MEMBERS.md) file in the repository.
+**3.1 Composition**. The SC voting members are listed in the [MEMBERS.md](./MEMBERS.md) file in the repository.
 Voting members may be added or removed by 3/4 affirmative vote of the SC.
 The SC will appoint a Chair responsible for organizing SC activity.
 
@@ -38,11 +38,11 @@ The SC will appoint a Chair responsible for organizing SC activity.
 
 ## 4. Trademarks
 
-Any names, trademarks, logos, or goodwill developed by and associated with the Organization or any of Organization's projects, however owned, may be only used in accordance with the Organization's [Trademark Policy](https://github.com/fairlearn/governance/blob/main/trademarks.md). Member's obligations under this section survive termination of Membership.
+Any names, trademarks, logos, or goodwill developed by and associated with the Organization or any of Organization's projects, however owned, may be only used in accordance with the Organization's [Trademark Policy](./trademarks.md). Member's obligations under this section survive termination of Membership.
 
 ## 5. Antitrust Policy
 
-The SC and all of the Organization's project participants are bound by the Organization's [Antitrust Policy](https://github.com/fairlearn/governance/blob/main/antitrust-policy.md).
+The SC and all of the Organization's project participants are bound by the Organization's [Antitrust Policy](./antitrust-policy.md).
 
 ## 6. No Confidentiality
 

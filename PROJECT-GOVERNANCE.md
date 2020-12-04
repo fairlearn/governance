@@ -1,9 +1,9 @@
 # Governance Policy
 
 This document provides the minimum governance policy for Projects the Fairlearn Organization (the "Organization"). Maintainers agree to this policy and to abide by all of the Organization's polices, including
-[Code of Conduct](https://github.com/fairlearn/governance/blob/main/code-of-conduct.md),
-[Trademark Policy](https://github.com/fairlearn/governance/blob/main/trademarks.md), and
-[Antitrust Policy](https://github.com/fairlearn/governance/blob/main/antitrust-policy.md)
+[Code of Conduct](./code-of-conduct.md),
+[Trademark Policy](./trademarks.md), and
+[Antitrust Policy](./antitrust-policy.md)
 by adding their name to the Project's `MAINTAINERS.md` file.
 
 ## 1.	Roles.
@@ -38,4 +38,4 @@ Information disclosed in connection with any Project activity, including but not
 
 ## 5. Trademarks.
 
-Any names, trademarks, logos, or goodwill arising out of the Project, however owned, may be only used in accordance with the Organization's [Trademark Policy](https://github.com/fairlearn/governance/blob/main/trademarks.md). Maintainer's obligations under this section survive their affiliation with the Project.
+Any names, trademarks, logos, or goodwill arising out of the Project, however owned, may be only used in accordance with the Organization's [Trademark Policy](./trademarks.md). Maintainer's obligations under this section survive their affiliation with the Project.
