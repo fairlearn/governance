@@ -1,8 +1,8 @@
 # Charter for the Fairlearn Organization
 
 This is the organizational charter for the Fairlearn Organization (the "Organization").
-By adding their name to the [steering-committee.md](https://github.com/fairlearn/governance/steering-committee.md) file,
-SC members agree as follows.
+By adding their name or the name of their Project to the [MEMBERS.md](https://github.com/fairlearn/governance/steering-committee.md) file, the
+SC members, the AB members and the Project Maintainers agree as follows.
 
 ## 1. Mission
 
@@ -12,7 +12,7 @@ Provide a set of open source resources to assess and improve fairness of AI syst
 
 The Organization is composed of:
 
-**2.1 Projects**. Projects consist of one or more repositories. Activities in each Project are organized by its Maintainers as set forth in the Project Governance Policy.
+**2.1 Projects**. Projects consist of one or more repositories. The Projects are represented and activities in each Project are organized by its Maintainers as set forth in the Project Governance Policy.
 
 **2.2 Steering Committee**. The Steering Committee (the "SC") is responsible for project selection, project oversight, policy oversight, and trademark management for the Organization.
 
@@ -20,7 +20,7 @@ The Organization is composed of:
 
 ## 3. Steering Committee
 
-**3.1 Composition**. The SC voting members are listed in the [steering-committee.md](https://github.com/fairlearn/governance/steering-committee.md) file in the repository.
+**3.1 Composition**. The SC voting members are listed in the [MEMBERS.md](https://github.com/fairlearn/governance/MEMBERS.md) file in the repository.
 Voting members may be added or removed by 3/4 affirmative vote of the SC.
 The SC will appoint a Chair responsible for organizing SC activity.
 
