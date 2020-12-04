@@ -48,7 +48,7 @@ The SC and all of the Organization's project participants are bound by the Organ
 
 Information disclosed in connection with any of the Organization's activities, including but not limited to meetings, Contributions, and submissions, is not confidential, regardless of any markings or statements to the contrary.
 
-## 8. Project Criteria
+## 7. Project Criteria
 
 In order to be eligible to be an Organization project, a project must:
 
