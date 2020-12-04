@@ -1,7 +1,7 @@
 # Charter for the Fairlearn Organization
 
 This is the organizational charter for the Fairlearn Organization (the "Organization").
-By adding their name or the name of their Project to the [MEMBERS.md](./steering-committee.md) file, the
+By adding their name or the name of their Project to the [MEMBERS.md](./MEMBERS.md) file, the
 SC members, the AB members and the Project Maintainers agree as follows.
 
 ## 1. Mission
