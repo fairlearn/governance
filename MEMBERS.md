@@ -11,8 +11,9 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | **NAME** | **Organization** |
 | --- | --- |
 | Miroslav Dudik | Microsoft |
-| . | . |
-| . | . |
+| Adrin Jalali | . |
+| Roman Lutz | Microsoft |
+| Hilde Weerts | . |
 
 ## Advisory Board (AB)
 
