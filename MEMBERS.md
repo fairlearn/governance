@@ -11,7 +11,7 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | **NAME** | **Organization** |
 | --- | --- |
 | Miroslav Dudik | Microsoft |
-| Adrin Jalali | HuggingFace |
+| Adrin Jalali | Hugging Face |
 | Roman Lutz | Microsoft |
 | Hilde Weerts | Eindhoven University of Technology |
 
