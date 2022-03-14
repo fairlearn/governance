@@ -11,7 +11,7 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 | **NAME** | **Organization** |
 | --- | --- |
 | Miroslav Dudik | Microsoft |
-| Adrin Jalali | Zalando SE |
+| Adrin Jalali | HuggingFace |
 | Roman Lutz | Microsoft |
 | Hilde Weerts | Eindhoven University of Technology |
 
@@ -28,4 +28,4 @@ This document lists the Steering Committee of the Organization (the "SC"), the A
 
 | **PROJECT** | **Maintainers** | **Governance** |
 | --- | --- | --- |
-| [Fairlearn](https://fairlearn.org/) | [to be updated after merging [PR#615](https://github.com/fairlearn/fairlearn/pull/615)] | [project governance](./PROJECT-GOVERNANCE.md) |
+| [Fairlearn](https://fairlearn.org/) | https://fairlearn.org/main/about/index.html#maintainers | [project governance](./PROJECT-GOVERNANCE.md) |
